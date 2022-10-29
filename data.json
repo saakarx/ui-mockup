@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "company-logo": "/infosys-logo.png",
+      "company-name": "Infosys",
+      "email": "management@infosys.com",
+      "phone": "+91 9563214587",
+      "contact-person": "Vijayent Roy",
+      "facilitator": "",
+      "sites": 12,
+      "tenants": "",
+      "tenants-groups": ""
+    },
+    {
+      "id": 2,
+      "company-logo": "/infosys-logo.png",
+      "company-name": "Wipro",
+      "email": "management@wipro.com",
+      "phone": "+91 9834687423",
+      "contact-person": "Kalpit Soni ",
+      "facilitator": "",
+      "sites": 8,
+      "tenants": "",
+      "tenants-groups": ""
+    },
+    {
+      "id": 3,
+      "company-logo": "/infosys-logo.png",
+      "company-name": "Accenture ",
+      "email": "management@accenture .com",
+      "phone": "+91 8732654789",
+      "contact-person": "Drishti Sane",
+      "facilitator": "",
+      "sites": 4,
+      "tenants": "",
+      "tenants-groups": ""
+    },
+    {
+      "id": 4,
+      "company-logo": "/infosys-logo.png",
+      "company-name": "Capgemini ",
+      "email": "management@capgemini  .com",
+      "phone": "+91 8432657995",
+      "contact-person": "Aisha Keer ",
+      "facilitator": "",
+      "sites": 6,
+      "tenants": "",
+      "tenants-groups": ""
+    },
+    {
+      "id": 5,
+      "company-logo": "/infosys-logo.png",
+      "company-name": "Lodha",
+      "email": "management@lodha.com",
+      "phone": "+91 9642357894",
+      "contact-person": "Kanika Khare",
+      "facilitator": "",
+      "sites": 24,
+      "tenants": 16,
+      "tenants-groups": ""
+    },
+    {
+      "id": 6,
+      "company-logo": "/infosys-logo.png",
+      "company-name": "Tata Consultancy Services",
+      "email": "management@tcs.com",
+      "phone": "+91 9632457468",
+      "contact-person": "Prabhat Rao ",
+      "facilitator": "",
+      "sites": 10,
+      "tenants": "",
+      "tenants-groups": ""
+    },
+    {
+      "id": 7,
+      "company-logo": "/infosys-logo.png",
+      "company-name": "HCL",
+      "email": "management@hcl.com",
+      "phone": "+91 9452136487",
+      "contact-person": "Venkat Pant",
+      "facilitator": "",
+      "sites": 5,
+      "tenants": 2,
+      "tenants-groups": 1
+    },
+    {
+      "id": 8,
+      "company-logo": "/infosys-logo.png",
+      "company-name": "Redington",
+      "email": "management@redington.com",
+      "phone": "+91 9326571865",
+      "contact-person": "Samir Yadav",
+      "facilitator": "",
+      "sites": 1,
+      "tenants": 1,
+      "tenants-groups": ""
+    },
+    {
+      "id": 9,
+      "company-logo": "/infosys-logo.png",
+      "company-name": "Mphasis ",
+      "email": "management@mphasis.com",
+      "phone": "+91 9874621547",
+      "contact-person": "Sweta Chawla",
+      "facilitator": "",
+      "sites": 1,
+      "tenants": "",
+      "tenants-groups": ""
+    },
+    {
+      "id": 10,
+      "company-logo": "/infosys-logo.png",
+      "company-name": "Larsen & Toubro",
+      "email": "management@larsentoubro.com",
+      "phone": "+91 9547154964",
+      "contact-person": "Abhishek Kumar",
+      "facilitator": "",
+      "sites": 16,
+      "tenants": "",
+      "tenants-groups": ""
+    }
+  ]
+}
