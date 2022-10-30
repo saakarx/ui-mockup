@@ -17,7 +17,15 @@ const router = createBrowserRouter([
     path: '/admin',
     element: <AdminLayout />,
     children: [
-      { index: true, element: <div>hey there</div> },
+      {
+        index: true,
+        element: (
+          <div className="mt-2">
+            Navigate to <code>/admin/view-clients</code> or{' '}
+            <code>/admin/add-client</code>
+          </div>
+        )
+      },
       {
         path: 'view-clients',
         element: <ViewClient />,
